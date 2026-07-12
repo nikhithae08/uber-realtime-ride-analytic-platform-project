@@ -1,0 +1,15 @@
+{
+	"name": "uberprojectadf08",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb9972f8-ccc1-42b8-8552-0730b27de3bb",
+		"tenantId": "ada39bdf-5fcc-49cb-9c16-ed5892b84964"
+	}
+}
